@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/azure-explorer-web/static/css/main.b48cb2ac.chunk.css",
+    "main.js": "/azure-explorer-web/static/js/main.533a5f24.chunk.js",
+    "main.js.map": "/azure-explorer-web/static/js/main.533a5f24.chunk.js.map",
+    "runtime-main.js": "/azure-explorer-web/static/js/runtime-main.227ea1f7.js",
+    "runtime-main.js.map": "/azure-explorer-web/static/js/runtime-main.227ea1f7.js.map",
+    "static/js/2.7a2c9c67.chunk.js": "/azure-explorer-web/static/js/2.7a2c9c67.chunk.js",
+    "static/js/2.7a2c9c67.chunk.js.map": "/azure-explorer-web/static/js/2.7a2c9c67.chunk.js.map",
+    "index.html": "/azure-explorer-web/index.html",
+    "precache-manifest.553351ed5afd87cfb3b5a75615c6fe55.js": "/azure-explorer-web/precache-manifest.553351ed5afd87cfb3b5a75615c6fe55.js",
+    "service-worker.js": "/azure-explorer-web/service-worker.js",
+    "static/css/main.b48cb2ac.chunk.css.map": "/azure-explorer-web/static/css/main.b48cb2ac.chunk.css.map",
+    "static/js/2.7a2c9c67.chunk.js.LICENSE.txt": "/azure-explorer-web/static/js/2.7a2c9c67.chunk.js.LICENSE.txt",
+    "static/media/machine-learning.svg": "/azure-explorer-web/static/media/machine-learning.f07e5eab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.227ea1f7.js",
+    "static/js/2.7a2c9c67.chunk.js",
+    "static/css/main.b48cb2ac.chunk.css",
+    "static/js/main.533a5f24.chunk.js"
+  ]
+}
